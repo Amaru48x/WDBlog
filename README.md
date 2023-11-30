@@ -1,2 +1,2 @@
 # WDBlog
-hello
+Caleb's Weekly Web Dev Blog.
